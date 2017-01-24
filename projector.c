@@ -65,7 +65,7 @@
 static int mat[arrwidth*arrheight*3];
 
     char * line = NULL;
-    size_t len = 0;
+    size_t len = 3;
     ssize_t read;
     int i=0;
 
